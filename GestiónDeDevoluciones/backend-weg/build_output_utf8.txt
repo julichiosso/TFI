@@ -1,0 +1,17 @@
+﻿  Determinando los proyectos que se van a restaurar...
+  Todos los proyectos est├ín actualizados para la restauraci├│n.
+C:\Users\Sofia\OneDrive - UTN San Francisco\Escritorio\GestionDeDev-main-main\GestionDeDev-main-main\GestionDeDevoluciones\Auth\AuthService.cs(66,27): error CS0246: El nombre del tipo o del espacio de nombres 'SymmetricSecurityKey' no se encontr├│ (┬┐falta una directiva using o una referencia de ensamblado?) [C:\Users\Sofia\OneDrive - UTN San Francisco\Escritorio\GestionDeDev-main-main\GestionDeDev-main-main\GestionDeDevoluciones\GestionDeDevoluciones.csproj]
+C:\Users\Sofia\OneDrive - UTN San Francisco\Escritorio\GestionDeDev-main-main\GestionDeDev-main-main\GestionDeDevoluciones\Auth\AuthService.cs(70,29): error CS0246: El nombre del tipo o del espacio de nombres 'SigningCredentials' no se encontr├│ (┬┐falta una directiva using o una referencia de ensamblado?) [C:\Users\Sofia\OneDrive - UTN San Francisco\Escritorio\GestionDeDev-main-main\GestionDeDev-main-main\GestionDeDevoluciones\GestionDeDevoluciones.csproj]
+C:\Users\Sofia\OneDrive - UTN San Francisco\Escritorio\GestionDeDev-main-main\GestionDeDev-main-main\GestionDeDevoluciones\Auth\AuthService.cs(70,53): error CS0103: El nombre 'SecurityAlgorithms' no existe en el contexto actual [C:\Users\Sofia\OneDrive - UTN San Francisco\Escritorio\GestionDeDev-main-main\GestionDeDev-main-main\GestionDeDevoluciones\GestionDeDevoluciones.csproj]
+
+ERROR al compilar.
+
+C:\Users\Sofia\OneDrive - UTN San Francisco\Escritorio\GestionDeDev-main-main\GestionDeDev-main-main\GestionDeDevoluciones\Auth\AuthService.cs(66,27): error CS0246: El nombre del tipo o del espacio de nombres 'SymmetricSecurityKey' no se encontr├│ (┬┐falta una directiva using o una referencia de ensamblado?) [C:\Users\Sofia\OneDrive - UTN San Francisco\Escritorio\GestionDeDev-main-main\GestionDeDev-main-main\GestionDeDevoluciones\GestionDeDevoluciones.csproj]
+C:\Users\Sofia\OneDrive - UTN San Francisco\Escritorio\GestionDeDev-main-main\GestionDeDev-main-main\GestionDeDevoluciones\Auth\AuthService.cs(70,29): error CS0246: El nombre del tipo o del espacio de nombres 'SigningCredentials' no se encontr├│ (┬┐falta una directiva using o una referencia de ensamblado?) [C:\Users\Sofia\OneDrive - UTN San Francisco\Escritorio\GestionDeDev-main-main\GestionDeDev-main-main\GestionDeDevoluciones\GestionDeDevoluciones.csproj]
+C:\Users\Sofia\OneDrive - UTN San Francisco\Escritorio\GestionDeDev-main-main\GestionDeDev-main-main\GestionDeDevoluciones\Auth\AuthService.cs(70,53): error CS0103: El nombre 'SecurityAlgorithms' no existe en el contexto actual [C:\Users\Sofia\OneDrive - UTN San Francisco\Escritorio\GestionDeDev-main-main\GestionDeDev-main-main\GestionDeDevoluciones\GestionDeDevoluciones.csproj]
+    0 Advertencia(s)
+    3 Errores
+
+Tiempo transcurrido 00:00:03.63
+
+Hay actualizaciones de carga de trabajo disponibles. Ejecute "dotnet workload list" para obtener m├ís informaci├│n.

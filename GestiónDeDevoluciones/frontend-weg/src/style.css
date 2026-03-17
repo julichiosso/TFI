@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+:root {
+    --status-pending: #f59e0b;
+    --status-review: #3b82f6;
+    --status-accepted: #10b981;
+    --status-rejected: #f43f5e;
+    --weg-blue: #005792;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #1e293b;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.premium-card {
+    background: white;
+    border-radius: 1.5rem;
+    border: 1px solid #f1f5f9;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.premium-card:hover {
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
+
+button, a, select, input[type="radio"], input[type="checkbox"] {
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
+    cursor: pointer !important;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+input, select, textarea {
+    color: #1e293b !important;
+}
+
+select option {
+    color: #1e293b !important;
+    background-color: white !important;
+}
+
